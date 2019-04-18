@@ -1,2 +1,2 @@
-# bigDataSummerSchool
-Data and support for the Big Data Summer School
+# MBDS
+Data and support for the Midwest Big Data Summer School will be posted here in May!
