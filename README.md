@@ -2,7 +2,10 @@
 
 <h3>Software</h3>
 QGIS Application: (https://qgis.org/en/site/) click the 'Download Now' button and then for your OS download the 3.4.x version of the software for the workshop. This will get you the most stable version of QGIS. 
-For Windows users, select the Satandalone installer for 3.4.x (not the OSGeo link!)
+
+Windows users: Select the Satandalone installer for 3.4.x (not the OSGeo link!)
+Mac users: There are requirements for having a certain version of Python installed (3.6) - follow the steps for this prior to installing QGIS.
+ 
  
  <h3>Files</h3>
 Download the GettingStarted.zip and the projectData.zip files.
