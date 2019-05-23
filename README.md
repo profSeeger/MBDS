@@ -5,6 +5,4 @@ QGIS Application: (https://qgis.org/en/site/) click the 'Download Now' button an
 For Windows users, select the Satandalone installer for 3.4.x (not the OSGeo link!)
  
  <h3>Files</h3>
- Data and additional support for the Midwest Big Data Summer School QGIS session will be posted here Wednesday afternoon!
-
- 
+Download the GettingStarted.zip and the Project.zip files.
