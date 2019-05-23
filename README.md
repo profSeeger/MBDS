@@ -13,6 +13,3 @@ Download the .zip files from above
 -projectData.zip files.
 
 *Please know that there is **no warranty of accuracy for the data** provided! It is a mixture of some very old data with new data. Other than the _Iowa Border__ and the __Iowa Counties__ data layers, do NOT use this data for a real project.*
-
-
-__***underline bold italics***__
