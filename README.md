@@ -5,7 +5,7 @@ QGIS Application: (https://qgis.org/en/site/) click the 'Download Now' button an
 
 Windows users: Select the Satandalone installer for 3.4.x (not the OSGeo link!)
 
-Mac users: There are requirements for having a certain version of Python installed (3.6) - follow the steps for this prior to installing QGIS.
+Mac users: There are requirements for having a certain version of Python installed (3.6) - follow the steps listed in the installer for this prior to installing QGIS.
  
  <h3>Files</h3>
 Download the .zip files from above
