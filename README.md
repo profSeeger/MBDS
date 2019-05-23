@@ -12,4 +12,6 @@ Download the .zip files from above
 - GettingStarted.zip
 -projectData.zip files.
 
-*Please know that there is **no warranty of accuracy for the data** provided! It is a mixture of some very old data with new data. Other than the <ins>Iowa Border</ins> and the <ins>Iowa Counties</ins> data layers, do NOT use this data for a real project.*
+*Please know that there is **no warranty of accuracy for the data** provided!
+It is a mixture of some very old data with new data. 
+With the exception of the <ins>Iowa Border</ins> and the <ins>Iowa Counties</ins> data layers, do NOT use this data for a real project!*
