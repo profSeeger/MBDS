@@ -5,4 +5,4 @@ QGIS Application: (https://qgis.org/en/site/) click the 'Download Now' button an
 For Windows users, select the Satandalone installer for 3.4.x (not the OSGeo link!)
  
  <h3>Files</h3>
-Download the GettingStarted.zip and the Project.zip files.
+Download the GettingStarted.zip and the projectData.zip files.
